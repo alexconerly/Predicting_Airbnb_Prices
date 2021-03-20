@@ -2,8 +2,10 @@
 # **Eat.Sleep.Data - Predicting Airbnb Prices in Nashville** 
 <hr>
 
+Note:  This was a group project.  The readme here has been updated slightly from the original group repository for personalized storytelling purposes (but is still nearly identical to the original).  The original repository can be found here which also includes a detailed wiki page:  https://github.com/whitneylosinski/Eat.Sleep.Data.
+
 ## Project Overview
-The purpose of this project is to analyze historical Airbnb data with machine learning models to predict the expected rental price of a given space based on location, size, amenities, reviews, host performance, and other relevant variables. This prediction model will be incorporated in a tool for property owners to use to determine the suggested rental price for their space. The model will incorporate seasonal trends and weekday versus weekend premiums to adjust the suggested price for the dates the space will be listed. Due to the short timeline for this project, the scope will be limited to the Nashville, TN market. 
+The purpose of this group project was to analyze historical Airbnb data with machine learning models to predict the expected rental price of a given space based on location, size, amenities, reviews, host performance, and other relevant variables. This prediction model will be incorporated in a dynamic website for property owners to use in order to get a suggested rental price for their space. The model originally sought to incorporate seasonal trends and weekday versus weekend premiums to adjust the suggested price for the dates the space would be listed.  However, the calendar data posed issues (see section on second round of machine learning model tests) and thus the project widened its scope to be a year-round analysis.  Also, due to the short timeline for this project, the geographical scope was limited to the Nashville, TN market.
 
 Link to Web App: <a href = "https://airbnb-price-prediction-stage.herokuapp.com/">Airbnb Price Predictor</a></br>
 Link to analysis: <a href = "https://github.com/whitneylosinski/Eat.Sleep.Data/blob/main/Airbnb_Analysis.ipynb">Airbnb_Analysis</a>
@@ -72,7 +74,7 @@ For a more in-depth discussion of the Machine Learning Models, follow this link:
 
 ##  Analysis phase of project
 
-On-going analysis of model results shows that there may be more issues with the data than originally identified.  Discussion of the results can be found in both the Feature Selection Wiki and discussion of the MLM model.
+The analysis of each model results showed that there were more issues with the data than originally identified.  Discussion of the results can be found in both the Feature Selection Wiki and discussion of the MLM model.
 
 - <a href = "https://github.com/whitneylosinski/Eat.Sleep.Data/wiki/Feature-Selection">Feature Selection (wiki link)</a>
 
