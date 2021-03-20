@@ -2,7 +2,7 @@
 # **Eat.Sleep.Data - Predicting Airbnb Prices in Nashville** 
 <hr>
 
-Note:  This was a group project.  The readme here has been updated slightly from the original group repository for personalized storytelling purposes (but is still nearly identical to the original).  The original repository can be found here which also includes a detailed wiki page:  https://github.com/whitneylosinski/Eat.Sleep.Data.
+Note:  This was a group project at Vanderbilt University Data Analytics Bootcamp.  The readme here has been updated slightly from the original group repository for clarity and personalized storytelling purposes.  The original repository can be found here which also includes a detailed wiki page:  https://github.com/whitneylosinski/Eat.Sleep.Data.
 
 ## Project Overview
 The purpose of this group project was to analyze historical Airbnb data with machine learning models to predict the expected rental price of a given space based on location, size, amenities, reviews, host performance, and other relevant variables. This prediction model will be incorporated in a dynamic website for property owners to use in order to get a suggested rental price for their space. The model originally sought to incorporate seasonal trends and weekday versus weekend premiums to adjust the suggested price for the dates the space would be listed.  However, the calendar data posed issues (see section on second round of machine learning model tests) and thus the project widened its scope to be a year-round analysis.  Also, due to the short timeline for this project, the geographical scope was limited to the Nashville, TN market.
